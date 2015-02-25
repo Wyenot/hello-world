@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub
+My name is Tony and I am a Computer Engineering student.
